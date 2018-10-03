@@ -1,0 +1,9 @@
+{
+  "name": "d30360e",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360e",
+  "description": "Date difference in years according to the 30E/360 ISDA daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30E/360 ISDA", "Eurobond Basis ISDA-2000", "German SWX", "German Master EBF MA"],
+  "license": "MIT",
+  "src": ["d30360e.c", "d30360e.h"]
+}
